@@ -1,0 +1,27 @@
+{
+  "name": "js-best-practices",
+  "version": "1.0.0",
+  "description": "This is for maintain good quality code by understanding the java script best practices in various situation",
+  "main": "index.js",
+  "scripts": {
+    "pretest":"npm run jshint",
+    "test": "echo 'test pass'",
+    "jshint":"jshint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchathu2014/JavaScript-Best-Practices.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "T.D.Nuwan Chathuranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchathu2014/JavaScript-Best-Practices/issues"
+  },
+  "homepage": "https://github.com/nchathu2014/JavaScript-Best-Practices#readme",
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  }
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Automatic Semicolon Insertion(ASI)</h1>
+<p>
+    When, as a Script or Module is parsed from left to right, a token (called the offending token) is encountered that is <span style="font-size: 20px;">not allowed </span> by any production of the grammar, then a semicolon is automatically inserted before the offending token if one or more of the following conditions is true:
+    <ul>
+    <li> The offending token is separated from the previous token by at least one LineTerminator.</li>
+    <li>The offending token is }</li>
+
+    <a href="http://stackoverflow.com/questions/2846283/what-are-the-rules-for-javascripts-automatic-semicolon-insertion-asi">for more </a>
+</ul>
+
+
+First of all you should know which statements are affected by the automatic semicolon insertion (also known as ASI for brevity):
+<ul>
+    <li>empty statement</li>
+    <li>var statement</li>
+    <li>expression statement</li>
+    <li>do-while statement</li>
+    <li>continue statement</li>
+    <li>break statement</li>
+    <li>return statement</li>
+    <li>throw statement</li>
+
+</ul>
+
+</p>
+<script src="script.js"></script>
+</body>
+</html>
