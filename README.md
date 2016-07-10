@@ -5,4 +5,4 @@ This is for maintain good quality code by understanding the java script best pra
 - Automatic semicolon insertion (ASI)
 - Linting
 - Curly Braces
-- 
+
