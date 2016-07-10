@@ -14,4 +14,5 @@ This is for maintain good quality code by understanding the java script best pra
 - functions (first class objects , best practice is define variables first and then declare function and run the function)
 
 ### Syntax oriented best practices
+- Global variables
 
