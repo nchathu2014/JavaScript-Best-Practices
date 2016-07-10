@@ -13,6 +13,6 @@ This is for maintain good quality code by understanding the java script best pra
 - Variables (Hoisting/Lexical Scoping -> make the variables on top of the scope)
 - functions (first class objects , best practice is define variables first and then declare function and run the function)
 
-### Syntax oriented best practices
+### Behavior oriented best practices
 - Global variables
 
