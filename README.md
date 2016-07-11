@@ -25,5 +25,5 @@ This is for maintain good quality code by understanding the java script best pra
 ### Async patterns
 - Callbacks (callback hell or Christmas tree type code)
 - Promices (https://www.promisejs.org/)
-- 
+- ES6 and babel
 
