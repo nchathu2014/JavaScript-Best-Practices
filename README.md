@@ -18,7 +18,7 @@ This is for maintain good quality code by understanding the java script best pra
 - Use strict mode
 - Read Only properties (with **Object.defineProperty()**)
 - Delete properties (with **delete** keyword)
-- Octal and Hexa decmial numer representation
+- **Octal** and **Hexa decmial** numer representation
 - Working with **"with"**
 - Working with **"this"**
 
