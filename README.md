@@ -17,4 +17,7 @@ This is for maintain good quality code by understanding the java script best pra
 - Global variables
 - Use strict mode
 - Read Only properties (with Object.defineProperty())
+- Delete properties (with delete keyword)
+- Octal and Hexa decmial numer representation
+- 
 
