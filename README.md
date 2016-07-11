@@ -15,4 +15,6 @@ This is for maintain good quality code by understanding the java script best pra
 
 ### Behavior oriented best practices
 - Global variables
+- Use strict mode
+- 
 
