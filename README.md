@@ -6,18 +6,19 @@ This is for maintain good quality code by understanding the java script best pra
 
 ## Content
 ### Syntax oriented best practices
-- Automatic semicolon insertion (ASI)
+- Automatic semicolon insertion (**ASI**)
 - Linting (JSHint -> http://jshint.com/docs/options/ configure jshint with package.json)
 - Curly Braces (Place them in same line for consistancy)
-- Equality (=== and for checking use !== 'undefined')
+- Equality (**===** and for checking use **!== 'undefined'**)
 - Variables (Hoisting/Lexical Scoping -> make the variables on top of the scope)
 - functions (first class objects , best practice is define variables first and then declare function and run the function)
 
 ### Behavior oriented best practices
 - Global variables
 - Use strict mode
-- Read Only properties (with Object.defineProperty())
-- Delete properties (with delete keyword)
+- Read Only properties (with **Object.defineProperty()**)
+- Delete properties (with **delete** keyword)
 - Octal and Hexa decmial numer representation
-- working with "with"
+- Working with **"with"**
+- Working with **"this"**
 
