@@ -5,7 +5,7 @@
 This is for maintain good quality code by understanding the java script best practices in various situations
 
 ## Content
-### Syntax oriented best practices
+### Syntax oriented
 - Automatic semicolon insertion (**ASI**)
 - Linting (JSHint -> http://jshint.com/docs/options/ configure jshint with package.json)
 - Curly Braces (Place them in same line for consistancy)
@@ -13,7 +13,7 @@ This is for maintain good quality code by understanding the java script best pra
 - Variables (Hoisting/Lexical Scoping -> make the variables on top of the scope)
 - functions (first class objects , best practice is define variables first and then declare function and run the function)
 
-### Behavior oriented best practices
+### Behavior oriented
 - Global variables
 - Use strict mode
 - Read Only properties (with **Object.defineProperty()**)
@@ -21,4 +21,9 @@ This is for maintain good quality code by understanding the java script best pra
 - **Octal** and **Hexa decmial** numer representation
 - Working with **"with"**
 - Working with **"this"**
+
+### Async patterns
+- Callbacks (callback hell or Christmas tree type code)
+- Promices (https://www.promisejs.org/)
+- 
 
