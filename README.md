@@ -31,3 +31,5 @@ This is for maintain good quality code by understanding the java script best pra
 ### Ready for production
 - npm settings (engines:{node:"4.0.4"} , npm config set save-exact=true)
 - Environment variables (node foreman)
+- Cross-Platform concerns (Linux , Winodws, Mac -> make the file names simple (DONT USE camelCase file names))
+- 
