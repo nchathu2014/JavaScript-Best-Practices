@@ -32,4 +32,4 @@ This is for maintain good quality code by understanding the java script best pra
 - npm settings (engines:{node:"4.0.4"} , npm config set save-exact=true)
 - Environment variables (node foreman)
 - Cross-Platform concerns (Linux , Winodws, Mac -> make the file names simple (DONT USE camelCase file names))
-- 
+- **KISS** Priciple (Keep It Simple , Best practices Vs Tool set)
