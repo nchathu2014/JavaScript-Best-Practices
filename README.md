@@ -29,4 +29,4 @@ This is for maintain good quality code by understanding the java script best pra
 - async and await (ESNext features)
 
 ### Ready for production
-- ww
+- npm settings (engines:{node:"4.0.4"} , npm config set save-exact=true)
