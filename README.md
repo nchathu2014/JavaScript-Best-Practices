@@ -30,3 +30,4 @@ This is for maintain good quality code by understanding the java script best pra
 
 ### Ready for production
 - npm settings (engines:{node:"4.0.4"} , npm config set save-exact=true)
+- Environment variables (node foreman)
